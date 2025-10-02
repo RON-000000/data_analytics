@@ -1,3 +1,5 @@
 {
-    "python.defaultInterpreterPath": "/usr/local/bin/python"
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "rainbow_csv.highlight_rows": true,
+    "rainbow_csv.virtual_alignment_mode": "always"
 }
